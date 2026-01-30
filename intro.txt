@@ -1,2 +1,5 @@
-this is exp 2 name yashasvi bisht 
+This is Experiment 2 GitHub practice file.
+Created by Yashasvi Bisht.
+
+
 
